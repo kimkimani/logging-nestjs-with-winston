@@ -1,0 +1,8 @@
+{"context":"LoggerController","level":"info","message":"This is an INFO log message from the LoggerController.","timestamp":"2023-09-28T08:23:15.204Z"}
+{"context":"LoggerController","level":"error","message":"This is an ERROR log message from the LoggerController.","timestamp":"2023-09-28T08:28:03.840Z","trace":null}
+{"context":"LoggerController","level":"error","message":"This is an ERROR log message from the LoggerController.","timestamp":"2023-09-28T08:28:28.783Z","trace":null}
+{"context":"BookController","level":"info","message":"Fetching all books","timestamp":"2023-09-28T09:12:21.538Z"}
+{"context":"BookController","level":"info","message":"Fetching book with ID :3","timestamp":"2023-09-28T09:12:46.559Z"}
+{"context":"NotFoundExceptionFilter","level":"error","message":"404 Error: Cannot GET /book","timestamp":"2023-09-28T09:13:13.854Z"}
+{"context":"NotFoundExceptionFilter","level":"error","message":"404 Error: Cannot GET /itesm","timestamp":"2023-09-28T09:13:23.044Z"}
+{"context":"BookController","level":"info","message":"Fetching book with ID :10","timestamp":"2023-09-28T09:13:34.455Z"}
